@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/akshdesai1.github.io/Text2/static/css/main.9e58cc70.chunk.css",
-    "main.js": "/akshdesai1.github.io/Text2/static/js/main.4fbf85a9.chunk.js",
-    "main.js.map": "/akshdesai1.github.io/Text2/static/js/main.4fbf85a9.chunk.js.map",
-    "runtime-main.js": "/akshdesai1.github.io/Text2/static/js/runtime-main.ffd6c9e5.js",
-    "runtime-main.js.map": "/akshdesai1.github.io/Text2/static/js/runtime-main.ffd6c9e5.js.map",
-    "static/js/2.55381dd1.chunk.js": "/akshdesai1.github.io/Text2/static/js/2.55381dd1.chunk.js",
-    "static/js/2.55381dd1.chunk.js.map": "/akshdesai1.github.io/Text2/static/js/2.55381dd1.chunk.js.map",
-    "static/js/3.1d4330fe.chunk.js": "/akshdesai1.github.io/Text2/static/js/3.1d4330fe.chunk.js",
-    "static/js/3.1d4330fe.chunk.js.map": "/akshdesai1.github.io/Text2/static/js/3.1d4330fe.chunk.js.map",
-    "index.html": "/akshdesai1.github.io/Text2/index.html",
-    "static/css/main.9e58cc70.chunk.css.map": "/akshdesai1.github.io/Text2/static/css/main.9e58cc70.chunk.css.map",
-    "static/js/2.55381dd1.chunk.js.LICENSE.txt": "/akshdesai1.github.io/Text2/static/js/2.55381dd1.chunk.js.LICENSE.txt"
+    "main.css": "/akshdesai1.github.io/text2/static/css/main.9e58cc70.chunk.css",
+    "main.js": "/akshdesai1.github.io/text2/static/js/main.4fbf85a9.chunk.js",
+    "main.js.map": "/akshdesai1.github.io/text2/static/js/main.4fbf85a9.chunk.js.map",
+    "runtime-main.js": "/akshdesai1.github.io/text2/static/js/runtime-main.b2bebded.js",
+    "runtime-main.js.map": "/akshdesai1.github.io/text2/static/js/runtime-main.b2bebded.js.map",
+    "static/js/2.55381dd1.chunk.js": "/akshdesai1.github.io/text2/static/js/2.55381dd1.chunk.js",
+    "static/js/2.55381dd1.chunk.js.map": "/akshdesai1.github.io/text2/static/js/2.55381dd1.chunk.js.map",
+    "static/js/3.1d4330fe.chunk.js": "/akshdesai1.github.io/text2/static/js/3.1d4330fe.chunk.js",
+    "static/js/3.1d4330fe.chunk.js.map": "/akshdesai1.github.io/text2/static/js/3.1d4330fe.chunk.js.map",
+    "index.html": "/akshdesai1.github.io/text2/index.html",
+    "static/css/main.9e58cc70.chunk.css.map": "/akshdesai1.github.io/text2/static/css/main.9e58cc70.chunk.css.map",
+    "static/js/2.55381dd1.chunk.js.LICENSE.txt": "/akshdesai1.github.io/text2/static/js/2.55381dd1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffd6c9e5.js",
+    "static/js/runtime-main.b2bebded.js",
     "static/js/2.55381dd1.chunk.js",
     "static/css/main.9e58cc70.chunk.css",
     "static/js/main.4fbf85a9.chunk.js"
